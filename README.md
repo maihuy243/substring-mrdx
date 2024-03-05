@@ -1,2 +1,5 @@
-# solworks-soltoolkit-sdk
-solworks/soltoolkit-sdk
+# substring-mrdx
+
+Một thư viện giúp bạn xử lí chuỗi
+
+Đơn giản, dễ dùng, cực kỳ nhẹ

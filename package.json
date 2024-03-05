@@ -1,0 +1,26 @@
+{
+  "name": "substring-mrdx",
+  "version": "1.0.0",
+  "description": "Một thư viện giúp bạn xử lí chuỗi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maihuy243/substring-mrdx"
+  },
+  "homepage": "https://twitter.com/founmous",
+  "keywords": [
+    "cong chuoi",
+    "string",
+    "xu li chuoi",
+    "tinh toan chuoi"
+  ],
+  "author": "founmous",
+  "license": "MIT"
+}
