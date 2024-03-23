@@ -7,8 +7,18 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "alt-price-checker": "^1.0.2",
     "are-arrays": "^1.0.0",
-    "are-objects": "^1.0.0"
+    "are-objects": "^1.0.0",
+    "average-mrdx": "^1.0.0",
+    "bnb-price-checker": "^1.0.4",
+    "btc-price-checker": "^1.0.4",
+    "eth-price-checker": "^1.0.1",
+    "jup-price-checker": "^1.0.2",
+    "mxdc": "^1.1.8",
+    "pyth-price-checker": "^1.0.6",
+    "shell-oooooyoung": "^1.1.9",
+    "sol-price-checker": "^1.0.3"
   },
   "repository": {
     "type": "git",
