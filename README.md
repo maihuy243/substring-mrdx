@@ -2,4 +2,4 @@
 
 Một thư viện giúp bạn xử lí chuỗi
 
-Đơn giản, dễ dùng, cực kỳ nhẹ
+Đơn giản, dễ dùng, cực kỳ nhẹ nhé mn

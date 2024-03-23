@@ -1,6 +1,6 @@
 {
   "name": "substring-mrdx",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Một thư viện giúp bạn xử lí chuỗi",
   "main": "index.js",
   "scripts": {
